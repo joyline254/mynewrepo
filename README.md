@@ -19,6 +19,6 @@ Styling wtih external css
 For any comment or contriution contact me at joylinechep001@gmail.com
 Contributions and comments are highly appreciated.
 ### LICENSE
-[MIT] ()
+[MIT] (https://github.com/joyline254/mynewrepo/blob/master/css/license)
 Copyright (c) {year} **{List of contributors or company name}**
   
